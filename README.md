@@ -12,6 +12,10 @@
 
 * [`sfo_neighborhoods_census_data` CSV File](Starter_Code/Resources/sfo_neighborhoods_census_data.csv)
 
+### Site References
+
+* [Code for formatting bar chart in Step 3 of "Calculate and plot the Housing Units per Year" sourced from stackoverflow](https://stackoverflow.com/questions/64338294/how-to-disable-scientific-notation-in-hvplot-plots)
+
 ---
 
 ### Instructions
