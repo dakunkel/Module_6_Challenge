@@ -4,6 +4,8 @@
 
 * [Houing Rental Analysis - DK](Starter_Code/san_francisco_housing_DK.ipynb)
 
+##### *** NOTE: Download files and run on local machine in order to see charts and graphs.
+
 ### Resource Files
 
 * [`housing_per_year` CSV File](Starter_Code/Resources/housing_per_year.csv)
